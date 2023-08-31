@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Cómo estás bitches.</p>
+  <p>¿Cómo estás bitches?</p>
   <p> </p>
   <p>Playing for Keepers - Est. 2021</p>
   <p> </p>
