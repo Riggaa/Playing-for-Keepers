@@ -141,7 +141,7 @@
         <div class="text">
             <h6>{leagueName}</h6>
             <!-- homepageText contains the intro text for your league, this gets edited in /src/lib/utils/leagueInfo.js -->
-            {@html homepageText }
+            <h6>{@html homepageText }</h6>
             <!-- Most recent Blog Post (if enabled) -->
             {#if enableBlog}
                 <HomePost />
